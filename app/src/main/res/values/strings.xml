@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">UD07CP01</string>
+    <string name="recargar">Recargar</string>
+    <string name="limpiar">Limpiar</string>
+    <string name="eliminar">Eliminar</string>
+    <string name="editar">Editar</string>
+    <string name="cambiar">Cambiar</string>
+    <string name="cancelar">Cancelar</string>
+    <string name="cerrar">Cerrar</string>
+    <string name="aceptar">Aceptar</string>
+    <string name="eliminar_todas">Eliminar todas las películas</string>
+    <string name="confirmar_limpiar">¿Estás seguro de que quieres eliminar la lista completa?</string>
+    <string name="eliminar_pelicula">Eliminar %1$s</string>
+    <string name="confirmar_eliminar">¿Estás seguro de que quieres eliminar %1$s?</string>
+    <string name="lista_eliminada">Se ha eliminado la lista completa</string>
+    <string name="lista_recargada">Lista recargada</string>
+    <string name="nombre_vacio">El nombre no puede estar vacío</string>
+    <string name="nombre_pelicula">Nombre de la película</string>
+    <string name="descripcion_fmt">Descripción: %1$s</string>
+    <string name="anio_fmt">Año: %1$d</string>
+    <string name="duracion_fmt">Duración: %1$d minutos</string>
+    <string name="pais_fmt">Nacionalidad: %1$s</string>
+    <string name="poster">Póster de la película</string>
+</resources>

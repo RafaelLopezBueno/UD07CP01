@@ -1,0 +1,6 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <style name="Base.Theme.UD06CP01" parent="Theme.Material3.Light">
+    </style>
+
+    <style name="Theme.UD06CP01" parent="Base.Theme.UD06CP01" />
+</resources>
